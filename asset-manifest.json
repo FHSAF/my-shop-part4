@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github.io/shop-hub/static/css/main.053be60a.chunk.css",
+    "main.js": "/github.io/shop-hub/static/js/main.84f12a0d.chunk.js",
+    "main.js.map": "/github.io/shop-hub/static/js/main.84f12a0d.chunk.js.map",
+    "runtime-main.js": "/github.io/shop-hub/static/js/runtime-main.8d3a9a4e.js",
+    "runtime-main.js.map": "/github.io/shop-hub/static/js/runtime-main.8d3a9a4e.js.map",
+    "static/js/2.7cc6c66f.chunk.js": "/github.io/shop-hub/static/js/2.7cc6c66f.chunk.js",
+    "static/js/2.7cc6c66f.chunk.js.map": "/github.io/shop-hub/static/js/2.7cc6c66f.chunk.js.map",
+    "index.html": "/github.io/shop-hub/index.html",
+    "precache-manifest.ca16bb2979d26ddf441e067011dc450e.js": "/github.io/shop-hub/precache-manifest.ca16bb2979d26ddf441e067011dc450e.js",
+    "service-worker.js": "/github.io/shop-hub/service-worker.js",
+    "static/css/main.053be60a.chunk.css.map": "/github.io/shop-hub/static/css/main.053be60a.chunk.css.map",
+    "static/js/2.7cc6c66f.chunk.js.LICENSE": "/github.io/shop-hub/static/js/2.7cc6c66f.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d3a9a4e.js",
+    "static/js/2.7cc6c66f.chunk.js",
+    "static/css/main.053be60a.chunk.css",
+    "static/js/main.84f12a0d.chunk.js"
+  ]
+}
